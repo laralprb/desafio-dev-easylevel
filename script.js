@@ -1,5 +1,5 @@
 //com IF
-function payRollAddAjustment(salary) {
+function payRollAddAdjustment(salary) {
   if (salary <= 1999.99) {
     return salary * 0.2 + salary;
   }
@@ -12,4 +12,4 @@ function payRollAddAjustment(salary) {
   return salary * 0.05 + salary;
 }
 
-payRollAddAjustment();
+payRollAddAdjustment();
