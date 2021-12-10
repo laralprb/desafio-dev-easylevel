@@ -13,3 +13,4 @@ function payRollAddAdjustment(salary) {
 }
 
 payRollAddAdjustment();
+module.exports = { payRollAddAdjustment };
