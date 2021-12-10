@@ -13,15 +13,3 @@ function payRollAddAjustment(salary) {
 }
 
 payRollAddAjustment();
-
-// //com Switch/case
-// switch (salario) {
-//   case salario <= 1999.99:
-//     console.log(salario * 0.2 + salario);
-//   case salario < 3999.99:
-//     console.log(salario * 0.15 + salario);
-//   case salario < 6999.99:
-//     console.log(salario * 0.1 + salario);
-//   case salario >= 7000:
-//     console.log(salario * 0.05 + salario);
-// }
